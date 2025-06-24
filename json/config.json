@@ -1,12 +1,12 @@
 {
-  "name": "Template Magisk Modules Repository",
-  "website": null,
-  "support": null,
+  "name": "Yukari0201's Magisk Modules Repository",
+  "website": "https://yukari0201.github.io/mmrl-repo/",
+  "support": "https://github.com/Yukari0201/mmrl-repo/issues",
   "donate": null,
-  "submission": null,
-  "base_url": "https://example.com/",
-  "description": null,
-  "max_num": 2,
+  "submission": "https://github.com/Yukari0201/mmrl-repo/issues/new",
+  "base_url": "https://yukari0201.github.io/mmrl-repo/",
+  "description": "Yukari0201's MMRL Repo",
+  "max_num": 3,
   "enable_log": true,
   "log_dir": "log"
 }
