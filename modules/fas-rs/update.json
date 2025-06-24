@@ -1,0 +1,14 @@
+{
+  "id": "fas-rs",
+  "timestamp": 1746340040.0,
+  "versions": [
+    {
+      "timestamp": 1746340040.0,
+      "version": "v4.9.0",
+      "versionCode": 490,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/fas-rs/v4.9.0_490.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/fas-rs/v4.9.0_490.md",
+      "size": 1931178
+    }
+  ]
+}

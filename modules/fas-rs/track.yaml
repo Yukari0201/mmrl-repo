@@ -3,4 +3,5 @@ enable: true
 verified: true
 update_to: https://raw.githubusercontent.com/shadow3aaa/fas-rs/refs/heads/master/update/update.json
 source: https://github.com/shadow3aaa/fas-rs
+last_update: 1746340040.0
 versions: 1
