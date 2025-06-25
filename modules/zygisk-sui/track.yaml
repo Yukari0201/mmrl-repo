@@ -1,0 +1,6 @@
+id: zygisk-sui
+enable: true
+verified: true
+update_to: https://rikkaapps.github.io/release/sui_zygisk.json
+source: https://github.com/RikkaApps/Sui
+versions: 1
