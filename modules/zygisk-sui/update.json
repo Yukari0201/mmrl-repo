@@ -1,0 +1,14 @@
+{
+  "id": "zygisk-sui",
+  "timestamp": 1695131134.0,
+  "versions": [
+    {
+      "timestamp": 1695131134.0,
+      "version": "v13.5.1",
+      "versionCode": 319,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.1_319.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.1_319.md",
+      "size": 1070639
+    }
+  ]
+}
