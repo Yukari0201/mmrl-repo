@@ -1,0 +1,6 @@
+id: zygisk_lsposed
+enable: true
+verified: true
+update_to: https://raw.githubusercontent.com/JingMatrix/LSPosed/master/magisk-loader/update/zygisk.json
+source: https://github.com/JingMatrix/LSPosed
+versions: 1
