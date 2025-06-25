@@ -1,52 +1,16 @@
-# Template Magisk Modules Repository
+# Yukari0201's Magisk Modules Repository
 
-> [!IMPORTANT]
-> Do not fork this repository if you want to create your own Magisk Modules Repository, use the **Use this template** button instead
+Yukari021's MMRL Repo
 
-A template repository to generate your own Magisk Modules Repository
+## How to use? | 如何使用？
 
-## Directory and File Overview:
+访问 [MMRL Releases](https://github.com/MMRLApp/MMRL/releases/latest) 下载 `release.apk` 并安装
 
-1. **Root Level**
+打开 MMRL App，按提示选择适合你的设备的选项
 
-   - The root contains the main folders (`assets`, `json`, `log`, and `modules`) and serves as the entry point for the repository.
+点击 MMRL App **底栏** 的 **仓库** ，然后点击右上角的 **+** ，输入：
+```
+https://yukari0201.github.io/mmrl-repo/
+```
 
-2. **`assets/`**
-
-   - Contains media assets related to the repository.
-   - `cover.webp`: Likely an image used as a cover or thumbnail. This cover image should be always `*.webp` with a size of **1024x500**.
-
-3. **`json/`**
-
-   - Houses configuration and module metadata in JSON format.
-   - `config.json`: Probably holds repository-wide settings.
-   - `modules.json`: Likely a listing or metadata for all modules in the repository.
-
-4. **`log/`**
-
-   - Stores logs for repository operations or updates.
-   - `sync_2025-01-04.log`: A log file for synchronization activities, possibly capturing recent updates or actions.
-
-5. **`modules/`**
-
-   - Main directory for individual Magisk modules.
-   - Each module is organized in its own subfolder.
-
-6. **`modules/bindhosts/`**
-
-   - A specific module (e.g., "bindhosts") with the following files:
-     - `track.yaml`: Likely tracks updates or version history.
-     - `update.json`: Contains update details or changelogs.
-     - `v1.8.5_185.md`: Documentation or release notes for version `v1.8.5_185`.
-     - `v1.8.5_185.zip`: The module's distributable ZIP file for version `v1.8.5_185`.
-
-7. **`modules/mmrl_wpd/`**
-   - Another module ("mmrl_wpd") with similar structure:
-     - `4.7.7_459.zip`: Distributable ZIP file for version `4.7.7_459`.
-     - `track.yaml`: Tracks updates or history.
-     - `update.json`: Contains update metadata.
-
-
-## More
-
-Learn more at the [Googlers-Repo/magisk-modules-repo-util](https://github.com/Googlers-Repo/magisk-modules-repo-util) repository.
+Enjoy~
