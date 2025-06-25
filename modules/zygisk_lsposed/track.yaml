@@ -3,4 +3,5 @@ enable: true
 verified: true
 update_to: https://raw.githubusercontent.com/JingMatrix/LSPosed/master/magisk-loader/update/zygisk.json
 source: https://github.com/JingMatrix/LSPosed
+last_update: 1729070017.0
 versions: 1
