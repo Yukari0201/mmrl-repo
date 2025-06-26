@@ -6,7 +6,7 @@
   "submission": "https://github.com/Yukari0201/mmrl-repo/issues/new",
   "base_url": "https://yukari0201.github.io/mmrl-repo/",
   "description": "Yukari0201's MMRL Repo",
-  "max_num": 3,
+  "max_num": 6,
   "enable_log": true,
   "log_dir": "log"
 }
