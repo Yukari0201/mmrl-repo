@@ -1,0 +1,14 @@
+{
+  "id": "tricky_store",
+  "timestamp": 1750249151.0,
+  "versions": [
+    {
+      "timestamp": 1750249151.0,
+      "version": "v1.3.0 (180-8acfa57-release)",
+      "versionCode": 180,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/tricky_store/v1.3.0_180-8acfa57-release.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/tricky_store/v1.3.0_180-8acfa57-release.md",
+      "size": 2694118
+    }
+  ]
+}

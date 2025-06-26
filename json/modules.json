@@ -9,9 +9,57 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1750899102.319199
+    "timestamp": 1750914064.69516
   },
   "modules": [
+    {
+      "id": "TA_utl",
+      "name": "Tricky Addon - Update Target List",
+      "version": "v4.0",
+      "versionCode": 538,
+      "author": "KOWX712",
+      "description": "A WebUI to conifgure tricky store target.txt ",
+      "verified": true,
+      "categories": [
+        "WebUI"
+      ],
+      "support": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/issues",
+      "license": " GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/KOWX712/Tricky-Addon-Update-Target-List/refs/heads/main/README.md",
+      "note": {
+        "message": "This module is not a part of the Tricky Store module. DO NOT report any issues to Tricky Store if encountered"
+      },
+      "added": 0,
+      "timestamp": 1750335605.0,
+      "size": 4286527,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List",
+        "antifeatures": null,
+        "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/TA_utl/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1750335605.0,
+          "version": "v4.0",
+          "versionCode": 538,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/TA_utl/v4.0_538.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/TA_utl/v4.0_538.md",
+          "size": 4286527
+        }
+      ]
+    },
     {
       "id": "asoul_affinity_opt",
       "name": "A-SOUL Games Optimization",
@@ -146,6 +194,47 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/fas-rs/v4.9.0_490.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/fas-rs/v4.9.0_490.md",
           "size": 1931178
+        }
+      ]
+    },
+    {
+      "id": "tricky_store",
+      "name": "Tricky Store",
+      "version": "v1.3.0 (180-8acfa57-release)",
+      "versionCode": 180,
+      "author": "5ec1cff",
+      "description": "A trick of keystore",
+      "verified": true,
+      "added": 0,
+      "timestamp": 1750249151.0,
+      "size": 2694118,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY",
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/5ec1cff/TrickyStore",
+        "antifeatures": null,
+        "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/tricky_store/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1750249151.0,
+          "version": "v1.3.0 (180-8acfa57-release)",
+          "versionCode": 180,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/tricky_store/v1.3.0_180-8acfa57-release.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/tricky_store/v1.3.0_180-8acfa57-release.md",
+          "size": 2694118
         }
       ]
     },

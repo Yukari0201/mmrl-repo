@@ -3,4 +3,5 @@ enable: true
 verified: true
 update_to: https://raw.githubusercontent.com/KOWX712/Tricky-Addon-Update-Target-List/main/update.json
 source: https://github.com/KOWX712/Tricky-Addon-Update-Target-List
+last_update: 1750335605.0
 versions: 1
