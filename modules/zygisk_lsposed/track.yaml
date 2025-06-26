@@ -1,7 +1,6 @@
 id: zygisk_lsposed
 enable: true
 verified: true
-update_to: https://raw.githubusercontent.com/JingMatrix/LSPosed/master/magisk-loader/update/zygisk.json
-source: https://github.com/JingMatrix/LSPosed
-last_update: 1729070017.0
+update_to: https://github.com/re-zero001/LSPosed-Irena/releases/download/1.9.2/LSPosed-v1.9.2-7249-Irena-release.zip
+source: https://github.com/re-zero001/LSPosed-Irena
 versions: 1
