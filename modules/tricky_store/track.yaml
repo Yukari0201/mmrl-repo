@@ -1,0 +1,6 @@
+id: tricky_store
+enable: true
+verified: true
+update_to: https://5ec1cff.github.io/TrickyStore/update.json
+source: https://github.com/5ec1cff/TrickyStore
+versions: 1
