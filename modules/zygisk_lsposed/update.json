@@ -1,0 +1,14 @@
+{
+  "id": "zygisk_lsposed",
+  "timestamp": 1729269316.0,
+  "versions": [
+    {
+      "timestamp": 1729269316.0,
+      "version": "v1.9.2 (7249)",
+      "versionCode": 7249,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/v1.9.2_7249.zip",
+      "changelog": "",
+      "size": 2464107
+    }
+  ]
+}

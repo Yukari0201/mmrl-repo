@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1750914064.69516
+    "timestamp": 1750915025.726058
   },
   "modules": [
     {
@@ -279,20 +279,21 @@
     },
     {
       "id": "zygisk_lsposed",
-      "name": "Zygisk - LSPosed",
-      "version": "v1.10.1 (7115)",
-      "versionCode": 7115,
-      "author": "Jing Matrix & LSPosed Developers",
+      "name": "LSPosed - Irena",
+      "version": "v1.9.2 (7249)",
+      "versionCode": 7249,
+      "author": "LSPosed Developers & Irena",
       "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 15. Requires Magisk 26.0+ and Zygisk enabled.",
       "verified": true,
       "added": 0,
-      "timestamp": 1729070017.0,
-      "size": 2608607,
+      "timestamp": 1729269316.0,
+      "size": 2464107,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.RESETPROP",
         "magisk.permission.SEPOLICY",
+        "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI",
         "mmrl.permission.APKS"
       ],
@@ -301,24 +302,25 @@
         "post_fs_data": true,
         "resetprop": true,
         "sepolicy": true,
+        "action": true,
         "webroot": true,
         "apks": true
       },
       "track": {
-        "type": "ONLINE_JSON",
+        "type": "ONLINE_ZIP",
         "added": null,
-        "source": "https://github.com/JingMatrix/LSPosed",
+        "source": "https://github.com/re-zero001/LSPosed-Irena",
         "antifeatures": null,
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/track.yaml"
       },
       "versions": [
         {
-          "timestamp": 1729070017.0,
-          "version": "v1.10.1 (7115)",
-          "versionCode": 7115,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/v1.10.1_7115.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/v1.10.1_7115.md",
-          "size": 2608607
+          "timestamp": 1729269316.0,
+          "version": "v1.9.2 (7249)",
+          "versionCode": 7249,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/v1.9.2_7249.zip",
+          "changelog": "",
+          "size": 2464107
         }
       ]
     }
