@@ -10,7 +10,7 @@ Yukari021's MMRL Repo
 
 点击 MMRL App **底栏** 的 **仓库** ，然后点击右上角的 **+** ，输入：
 ```
-https://yukari0201.github.io/mmrl-repo/
+https://yukari0201.github.io/mmrl-repo
 ```
 
 Enjoy~
