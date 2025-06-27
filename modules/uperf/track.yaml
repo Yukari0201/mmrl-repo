@@ -3,4 +3,5 @@ enable: true
 verified: true
 update_to: https://github.com/yinwanxi/Uperf-Game-Turbo/raw/master/version.json
 source: https://github.com/yinwanxi/Uperf-Game-Turbo
+last_update: 1750991173.0
 versions: 1

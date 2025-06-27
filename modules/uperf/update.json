@@ -1,0 +1,14 @@
+{
+  "id": "uperf",
+  "timestamp": 1750991173.0,
+  "versions": [
+    {
+      "timestamp": 1750991173.0,
+      "version": "\ufe0f1.44 based on uperf 904",
+      "versionCode": 250510,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/uperf/1.44_based_on_uperf_904_250510.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/uperf/1.44_based_on_uperf_904_250510.md",
+      "size": 1921401
+    }
+  ]
+}
