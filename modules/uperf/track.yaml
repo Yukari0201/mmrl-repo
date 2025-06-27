@@ -1,0 +1,6 @@
+id: uperf
+enable: true
+verified: true
+update_to: https://github.com/yinwanxi/Uperf-Game-Turbo/raw/master/version.json
+source: https://github.com/yinwanxi/Uperf-Game-Turbo
+versions: 1
