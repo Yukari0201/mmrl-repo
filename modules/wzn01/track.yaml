@@ -1,0 +1,6 @@
+id: uperf
+enable: true
+verified: true
+update_to: https://raw.githubusercontent.com/wenzhuning/magisk/master/update.json
+source: https://github.com/wenzhuning/magisk
+versions: 1
