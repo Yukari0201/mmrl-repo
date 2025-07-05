@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1751717826.729696
+    "timestamp": 1751739134.13848
   },
   "modules": [
     {
@@ -20,15 +20,15 @@
       "author": "KOWX712",
       "description": "A WebUI to conifgure tricky store target.txt ",
       "verified": true,
+      "support": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/issues",
       "categories": [
         "WebUI"
       ],
-      "support": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/issues",
-      "license": " GPL-3.0",
       "readme": "https://raw.githubusercontent.com/KOWX712/Tricky-Addon-Update-Target-List/refs/heads/main/README.md",
       "note": {
         "message": "This module is not a part of the Tricky Store module. DO NOT report any issues to Tricky Store if encountered"
       },
+      "license": " GPL-3.0",
       "added": 0,
       "timestamp": 1750335605.0,
       "size": 4286527,
@@ -104,6 +104,12 @@
       "description": "Systemless hosts for APatch, KernelSU and Magisk ",
       "added": 1733301165,
       "verified": true,
+      "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
+      "screenshots": [
+        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_manager.png",
+        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_webui.png",
+        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/manager_action.png"
+      ],
       "categories": [
         "Adblocking and Hosts Files",
         "APatch",
@@ -111,13 +117,7 @@
         "Magisk"
       ],
       "support": "https://github.com/bindhosts/bindhosts/issues",
-      "screenshots": [
-        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_manager.png",
-        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_webui.png",
-        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/manager_action.png"
-      ],
       "license": "WTFPL",
-      "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
       "timestamp": 1750727025.0,
       "size": 116707,
       "permissions": [
