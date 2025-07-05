@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1751696034.933626
+    "timestamp": 1751711779.743266
   },
   "modules": [
     {
@@ -198,6 +198,51 @@
       ]
     },
     {
+      "id": "susfs4ksu",
+      "name": "SUSFS-FOR-KERNELSU",
+      "version": "v1.5.2-R19",
+      "versionCode": 105002019,
+      "author": "sidex15 & simonpunk",
+      "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
+      "verified": true,
+      "added": 0,
+      "timestamp": 1749780721.0,
+      "size": 1276688,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI",
+        "kernelsu.permission.POST_MOUNT",
+        "kernelsu.permission.BOOT_COMPLETED"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true,
+        "webroot": true,
+        "post_mount": true,
+        "boot_completed": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/sidex15/ksu_module_susfs",
+        "antifeatures": null,
+        "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1749780721.0,
+          "version": "v1.5.2-R19",
+          "versionCode": 105002019,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/v1.5.2-R19_105002019.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/v1.5.2-R19_105002019.md",
+          "size": 1276688
+        }
+      ]
+    },
+    {
       "id": "tricky_store",
       "name": "Tricky Store",
       "version": "v1.3.0 (180-8acfa57-release)",
@@ -274,6 +319,45 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/uperf/1.44_based_on_uperf_904_250510.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/uperf/1.44_based_on_uperf_904_250510.md",
           "size": 1921401
+        }
+      ]
+    },
+    {
+      "id": "wzn01",
+      "name": "\u5fae\u4fe1QQ\u5185\u5b58\u538b\u5236",
+      "version": "v1.3",
+      "versionCode": 3,
+      "author": "\u6e29\u52a9\u5b81",
+      "description": "\u538b\u5236\u6bd2\u7624\u5fae\u4fe1\u548cQQ\u7684\u540e\u53f0\u5185\u5b58\u5360\u7528\uff0c\u81ea\u52a8\u8bc6\u522b\u662f\u5426\u5728\u540e\u53f0\u5e76\u4e14\u6e05\u7406\u6389\u65e0\u7528\u8fdb\u7a0b\uff0c\u53ea\u4fdd\u7559\u4e3b\u8fdb\u7a0b\u548c\u6d88\u606f\u63a8\u9001\u8fdb\u7a0b\uff0c\u4e0d\u4f1a\u5f71\u54cd\u6d88\u606f\u63a5\u53d7\u3002",
+      "verified": true,
+      "added": 0,
+      "timestamp": 1669423458.0,
+      "size": 3848,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "resetprop": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/wenzhuning/magisk",
+        "antifeatures": null,
+        "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/wzn01/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1669423458.0,
+          "version": "v1.3",
+          "versionCode": 3,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/wzn01/v1.3_3.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/wzn01/v1.3_3.md",
+          "size": 3848
         }
       ]
     },

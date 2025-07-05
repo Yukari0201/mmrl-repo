@@ -1,0 +1,14 @@
+{
+  "id": "wzn01",
+  "timestamp": 1669423458.0,
+  "versions": [
+    {
+      "timestamp": 1669423458.0,
+      "version": "v1.3",
+      "versionCode": 3,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/wzn01/v1.3_3.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/wzn01/v1.3_3.md",
+      "size": 3848
+    }
+  ]
+}
