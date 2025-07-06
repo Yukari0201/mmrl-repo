@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1751804252.090603
+    "timestamp": 1751825562.847314
   },
   "modules": [
     {
@@ -200,14 +200,14 @@
     {
       "id": "susfs4ksu",
       "name": "SUSFS-FOR-KERNELSU",
-      "version": "v1.5.2-R19",
-      "versionCode": 105002019,
+      "version": "v1.5.2-R20",
+      "versionCode": 105002020,
       "author": "sidex15 & simonpunk",
       "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
       "verified": true,
       "added": 0,
-      "timestamp": 1749780721.0,
-      "size": 1276688,
+      "timestamp": 1751808417.0,
+      "size": 1354745,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -239,6 +239,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/v1.5.2-R19_105002019.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/v1.5.2-R19_105002019.md",
           "size": 1276688
+        },
+        {
+          "timestamp": 1751808417.0,
+          "version": "v1.5.2-R20",
+          "versionCode": 105002020,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/v1.5.2-R20_105002020.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/v1.5.2-R20_105002020.md",
+          "size": 1354745
         }
       ]
     },
