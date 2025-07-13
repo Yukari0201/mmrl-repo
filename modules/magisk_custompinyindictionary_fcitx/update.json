@@ -1,0 +1,14 @@
+{
+  "id": "magisk_custompinyindictionary_fcitx",
+  "timestamp": 1735696693.0,
+  "versions": [
+    {
+      "timestamp": 1735696693.0,
+      "version": "v20250101",
+      "versionCode": 20250101,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/magisk_custompinyindictionary_fcitx/v20250101_20250101.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/magisk_custompinyindictionary_fcitx/v20250101_20250101.md",
+      "size": 30868270
+    }
+  ]
+}
