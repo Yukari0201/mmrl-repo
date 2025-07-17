@@ -1,7 +1,7 @@
 id: zygisksu
 enable: true
 verified: true
-update_to: https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.2.9/Zygisk-Next-1.2.9-521-e73dbfc-release.zip
+update_to: https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.2.9.1/Zygisk-Next-1.2.9.1-534-b8e7e21-release.zip
 source: https://github.com/Dr-TSNG/ZygiskNext
 last_update: 1748603687.0
 versions: 1
