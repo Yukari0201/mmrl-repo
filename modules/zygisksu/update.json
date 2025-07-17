@@ -9,6 +9,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.2.9_521-e73dbfc-release.zip",
       "changelog": "",
       "size": 3561924
+    },
+    {
+      "timestamp": 1752661306.0,
+      "version": "1.2.9.1 (534-b8e7e21-release)",
+      "versionCode": 534,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.2.9.1_534-b8e7e21-release.zip",
+      "changelog": "",
+      "size": 5072373
     }
   ]
 }
