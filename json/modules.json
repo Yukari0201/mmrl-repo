@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1752732981.083749
+    "timestamp": 1752754830.630919
   },
   "modules": [
     {
@@ -98,8 +98,8 @@
     {
       "id": "bindhosts",
       "name": "bindhosts",
-      "version": "v2.0.5",
-      "versionCode": 205,
+      "version": "v2.0.6",
+      "versionCode": 206,
       "author": "xx, KOWX712",
       "description": "Systemless hosts for APatch, KernelSU and Magisk ",
       "added": 1733301165,
@@ -118,8 +118,8 @@
       ],
       "support": "https://github.com/bindhosts/bindhosts/issues",
       "license": "WTFPL",
-      "timestamp": 1750727025.0,
-      "size": 116707,
+      "timestamp": 1752752498.0,
+      "size": 117756,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -155,6 +155,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.0.5_205.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.0.5_205.md",
           "size": 116707
+        },
+        {
+          "timestamp": 1752752498.0,
+          "version": "v2.0.6",
+          "versionCode": 206,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.0.6_206.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.0.6_206.md",
+          "size": 117756
         }
       ]
     },
