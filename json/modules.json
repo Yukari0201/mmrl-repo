@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1753186855.21948
+    "timestamp": 1753208125.742189
   },
   "modules": [
     {
@@ -63,14 +63,14 @@
     {
       "id": "asoul_affinity_opt",
       "name": "A-SOUL Games Optimization",
-      "version": "Enanan",
-      "versionCode": 275,
+      "version": "Mafuyu",
+      "versionCode": 276,
       "author": "nakixii",
       "description": "Game threads tweaker for Android.",
       "verified": true,
       "added": 0,
-      "timestamp": 1747729427.0,
-      "size": 14722,
+      "timestamp": 1753203209.0,
+      "size": 15064,
       "permissions": [
         "magisk.permission.SERVICE"
       ],
@@ -92,6 +92,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Enanan_275.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Enanan_275.md",
           "size": 14722
+        },
+        {
+          "timestamp": 1753203209.0,
+          "version": "Mafuyu",
+          "versionCode": 276,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Mafuyu_276.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Mafuyu_276.md",
+          "size": 15064
         }
       ]
     },
