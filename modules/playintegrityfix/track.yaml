@@ -1,5 +1,6 @@
 enable: true
 id: playintegrityfix
+last_update: 1752336725.0
 source: https://github.com/KOWX712/PlayIntegrityFix
 update_to: https://raw.githubusercontent.com/KOWX712/PlayIntegrityFix/inject_s/update.json
 verified: true
