@@ -1,0 +1,14 @@
+{
+  "id": "zygisk_shamiko",
+  "timestamp": 1750246628.0,
+  "versions": [
+    {
+      "timestamp": 1750246628.0,
+      "version": "v1.2.5 (414)",
+      "versionCode": 414,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_shamiko/v1.2.5_414.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_shamiko/v1.2.5_414.md",
+      "size": 6523936
+    }
+  ]
+}
