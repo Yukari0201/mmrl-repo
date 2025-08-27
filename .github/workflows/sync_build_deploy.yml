@@ -27,6 +27,7 @@ concurrency:
 
 env:
   IS_SYNC: ${{ inputs.run_sync == 'Yes' || github.event_name == 'schedule' }}
+  GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   sync:
@@ -56,8 +57,6 @@ jobs:
         if: ${{ env.IS_SYNC == 'true' }}
         run: |
           mmrl-util sync --diff versions_diff.md
-        env:
-          GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Write versions diff to summary
         if: ${{ env.IS_SYNC == 'true' }}
