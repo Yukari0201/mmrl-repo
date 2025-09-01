@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1756702261.639954
+    "timestamp": 1756707414.676037
   },
   "modules": [
     {
@@ -644,7 +644,7 @@
         "webroot": true
       },
       "track": {
-        "type": "ONLINE_ZIP",
+        "type": "GIT",
         "added": null,
         "source": "https://github.com/Dr-TSNG/ZygiskNext",
         "antifeatures": null,
