@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1756793754.524308
+    "timestamp": 1756815584.991575
   },
   "modules": [
     {
@@ -269,14 +269,14 @@
     {
       "id": "playintegrityfix",
       "name": "Play Integrity Fix [INJECT]",
-      "version": "v4.2-inject-s",
-      "versionCode": 42,
+      "version": "v4.3-inject-s",
+      "versionCode": 43,
       "author": "chiteroman, KOWX712",
       "description": "Universal modular fix for Play Integrity on devices running Android 8-16",
       "verified": true,
       "added": 0,
-      "timestamp": 1752336725.0,
-      "size": 510952,
+      "timestamp": 1756811549.0,
+      "size": 512908,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -304,6 +304,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.2-inject-s_42.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.2-inject-s_42.md",
           "size": 510952
+        },
+        {
+          "timestamp": 1756811549.0,
+          "version": "v4.3-inject-s",
+          "versionCode": 43,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.3-inject-s_43.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.3-inject-s_43.md",
+          "size": 512908
         }
       ]
     },
