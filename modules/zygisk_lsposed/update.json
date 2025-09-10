@@ -17,6 +17,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/v1.9.2_7280.zip",
       "changelog": "",
       "size": 2594989
+    },
+    {
+      "timestamp": 1757492066.0,
+      "version": "v1.9.2 (7291)",
+      "versionCode": 7291,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/v1.9.2_7291.zip",
+      "changelog": "",
+      "size": 2733676
     }
   ]
 }
