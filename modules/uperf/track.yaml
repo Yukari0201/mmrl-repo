@@ -1,7 +1,7 @@
 enable: true
 id: uperf
-last_update: 1754102171.0
+last_update: 1757697604.0
 source: https://github.com/yinwanxi/Uperf-Game-Turbo
 update_to: https://github.com/yinwanxi/Uperf-Game-Turbo/raw/master/version.json
 verified: true
-versions: 2
+versions: 3

@@ -17,6 +17,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/uperf/1.45_based_on_uperf_904_250602.zip",
       "changelog": "https://yukari0201.github.io/mmrl-repo/modules/uperf/1.45_based_on_uperf_904_250602.md",
       "size": 1926274
+    },
+    {
+      "timestamp": 1757697604.0,
+      "version": "\ufe0f1.46 based on uperf 904",
+      "versionCode": 250805,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/uperf/1.46_based_on_uperf_904_250805.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/uperf/1.46_based_on_uperf_904_250805.md",
+      "size": 1938688
     }
   ]
 }
