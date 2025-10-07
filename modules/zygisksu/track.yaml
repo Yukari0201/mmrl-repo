@@ -1,10 +1,10 @@
 enable: true
 id: zygisksu
-last_update: 1759759674.0
+last_update: 1759842136.0
 options:
   github:
     source: releases
 source: https://github.com/Dr-TSNG/ZygiskNext
 update_to: https://github.com/Dr-TSNG/ZygiskNext.git
 verified: true
-versions: 3
+versions: 4

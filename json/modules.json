@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1759839596.930589
+    "timestamp": 1759860895.475247
   },
   "modules": [
     {
@@ -665,14 +665,14 @@
     {
       "id": "zygisksu",
       "name": "Zygisk Next",
-      "version": "1.3.0-RC1 (599-21e857e-release)",
-      "versionCode": 599,
+      "version": "1.3.0-RC2 (606-b6f3a4a-release)",
+      "versionCode": 606,
       "author": "5ec1cff, Nullptr",
       "description": "Standalone implementation of Zygisk.",
       "verified": true,
       "added": 0,
-      "timestamp": 1759759674.0,
-      "size": 6198370,
+      "timestamp": 1759842136.0,
+      "size": 6254071,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -716,6 +716,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.3.0-RC1_599-21e857e-release.zip",
           "changelog": "",
           "size": 6198370
+        },
+        {
+          "timestamp": 1759842136.0,
+          "version": "1.3.0-RC2 (606-b6f3a4a-release)",
+          "versionCode": 606,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.3.0-RC2_606-b6f3a4a-release.zip",
+          "changelog": "",
+          "size": 6254071
         }
       ]
     }
