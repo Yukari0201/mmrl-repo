@@ -1,7 +1,7 @@
-id: fas_rs
 enable: true
-verified: true
-update_to: https://raw.githubusercontent.com/shadow3aaa/fas-rs/refs/heads/master/update/update.json
+id: fas_rs
+last_update: 1760093529.0
 source: https://github.com/shadow3aaa/fas-rs
-last_update: 1746340040.0
-versions: 1
+update_to: https://raw.githubusercontent.com/shadow3aaa/fas-rs/refs/heads/master/update/update.json
+verified: true
+versions: 2

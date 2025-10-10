@@ -9,6 +9,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/fas-rs/v4.9.0_490.zip",
       "changelog": "https://yukari0201.github.io/mmrl-repo/modules/fas-rs/v4.9.0_490.md",
       "size": 1931178
+    },
+    {
+      "timestamp": 1760093529.0,
+      "version": "v4.9.1",
+      "versionCode": 409001,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/fas_rs/v4.9.1_409001.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/fas_rs/v4.9.1_409001.md",
+      "size": 1968964
     }
   ]
 }
