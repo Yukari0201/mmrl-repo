@@ -1,7 +1,7 @@
 enable: true
 id: susfs4ksu
-last_update: 1758867240.0
+last_update: 1760862849.0
 source: https://github.com/sidex15/ksu_module_susfs
 update_to: https://raw.githubusercontent.com/sidex15/ksu_module_susfs/v1.5.2+/update.json
 verified: true
-versions: 4
+versions: 5
