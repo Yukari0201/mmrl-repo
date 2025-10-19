@@ -33,6 +33,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.0.7_207.zip",
       "changelog": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.0.7_207.md",
       "size": 123025
+    },
+    {
+      "timestamp": 1760831840.0,
+      "version": "v2.0.8",
+      "versionCode": 208,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.0.8_208.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.0.8_208.md",
+      "size": 126681
     }
   ]
 }
