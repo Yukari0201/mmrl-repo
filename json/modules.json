@@ -9,14 +9,14 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1761049225.738931
+    "timestamp": 1761070437.554216
   },
   "modules": [
     {
       "id": "TA_utl",
       "name": "Tricky Addon - Update Target List",
-      "version": "v4.1",
-      "versionCode": 572,
+      "version": "v4.2",
+      "versionCode": 618,
       "author": "KOWX712",
       "description": "A WebUI to conifgure tricky store target.txt ",
       "verified": true,
@@ -30,8 +30,8 @@
       },
       "license": " GPL-3.0",
       "added": 0,
-      "timestamp": 1753440707.0,
-      "size": 4300641,
+      "timestamp": 1761057007.0,
+      "size": 3117854,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -65,6 +65,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/TA_utl/v4.1_572.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/TA_utl/v4.1_572.md",
           "size": 4300641
+        },
+        {
+          "timestamp": 1761057007.0,
+          "version": "v4.2",
+          "versionCode": 618,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/TA_utl/v4.2_618.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/TA_utl/v4.2_618.md",
+          "size": 3117854
         }
       ]
     },

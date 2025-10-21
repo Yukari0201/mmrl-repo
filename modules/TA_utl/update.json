@@ -17,6 +17,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/TA_utl/v4.1_572.zip",
       "changelog": "https://yukari0201.github.io/mmrl-repo/modules/TA_utl/v4.1_572.md",
       "size": 4300641
+    },
+    {
+      "timestamp": 1761057007.0,
+      "version": "v4.2",
+      "versionCode": 618,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/TA_utl/v4.2_618.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/TA_utl/v4.2_618.md",
+      "size": 3117854
     }
   ]
 }
