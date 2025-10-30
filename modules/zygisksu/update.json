@@ -41,6 +41,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.3.0-RC3_620-316eada-release.zip",
       "changelog": "",
       "size": 6298158
+    },
+    {
+      "timestamp": 1761488994.0,
+      "version": "1.3.0-RC4 (638-45eea2d-release)",
+      "versionCode": 638,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.3.0-RC4_638-45eea2d-release.zip",
+      "changelog": "",
+      "size": 6346123
     }
   ]
 }
