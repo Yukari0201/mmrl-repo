@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1762064092.61842
+    "timestamp": 1762085820.651492
   },
   "modules": [
     {
@@ -421,14 +421,14 @@
     {
       "id": "tricky_store",
       "name": "Tricky Store",
-      "version": "v1.4.0 (235-e15da3d-release)",
-      "versionCode": 235,
+      "version": "v1.4.1 (245-72b2e84-release)",
+      "versionCode": 245,
       "author": "5ec1cff, aviraxp and Cyberenchanter",
       "description": "A trick of keystore",
       "verified": true,
       "added": 0,
-      "timestamp": 1760970440.0,
-      "size": 2720036,
+      "timestamp": 1762077393.0,
+      "size": 2840600,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -464,6 +464,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/tricky_store/v1.4.0_235-e15da3d-release.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/tricky_store/v1.4.0_235-e15da3d-release.md",
           "size": 2720036
+        },
+        {
+          "timestamp": 1762077393.0,
+          "version": "v1.4.1 (245-72b2e84-release)",
+          "versionCode": 245,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/tricky_store/v1.4.1_245-72b2e84-release.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/tricky_store/v1.4.1_245-72b2e84-release.md",
+          "size": 2840600
         }
       ]
     },
