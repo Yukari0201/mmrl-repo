@@ -1,0 +1,6 @@
+id: mountify
+enable: true
+verified: true
+update_to: https://raw.githubusercontent.com/backslashxx/mountify/master/update.json
+source: https://github.com/backslashxx/mountify
+versions: 1
