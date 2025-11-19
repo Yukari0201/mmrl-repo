@@ -9,6 +9,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.7.1_171.zip",
       "changelog": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.7.1_171.md",
       "size": 540044
+    },
+    {
+      "timestamp": 1763520604.0,
+      "version": "v1.7.2",
+      "versionCode": 172,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.7.2_172.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.7.2_172.md",
+      "size": 540118
     }
   ]
 }
