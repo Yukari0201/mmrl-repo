@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1763792058.687318
+    "timestamp": 1763813824.86814
   },
   "modules": [
     {
@@ -301,14 +301,14 @@
     {
       "id": "mountify",
       "name": "mountify",
-      "version": "v1.7.4",
-      "versionCode": 174,
+      "version": "v1.7.5",
+      "versionCode": 175,
       "author": "xx, KOWX712",
       "description": "Globally mounted modules via OverlayFS.",
       "verified": true,
       "added": 0,
-      "timestamp": 1763701411.0,
-      "size": 540292,
+      "timestamp": 1763799828.0,
+      "size": 540495,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -362,6 +362,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.7.4_174.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.7.4_174.md",
           "size": 540292
+        },
+        {
+          "timestamp": 1763799828.0,
+          "version": "v1.7.5",
+          "versionCode": 175,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.7.5_175.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.7.5_175.md",
+          "size": 540495
         }
       ]
     },
