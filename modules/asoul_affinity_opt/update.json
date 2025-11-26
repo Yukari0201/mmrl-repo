@@ -25,6 +25,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Arona_277.zip",
       "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Arona_277.md",
       "size": 17363
+    },
+    {
+      "timestamp": 1764148245.0,
+      "version": "Plana",
+      "versionCode": 278,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Plana_278.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Plana_278.md",
+      "size": 17775
     }
   ]
 }

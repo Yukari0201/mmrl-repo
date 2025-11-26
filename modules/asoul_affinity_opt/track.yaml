@@ -1,7 +1,7 @@
 enable: true
 id: asoul_affinity_opt
-last_update: 1755660787.0
+last_update: 1764148245.0
 source: https://github.com/nakixii/Magisk_AsoulOpt
 update_to: https://github.com/nakixii/Magisk_AsoulOpt/raw/main/AsoulOpt.json
 verified: true
-versions: 3
+versions: 4
