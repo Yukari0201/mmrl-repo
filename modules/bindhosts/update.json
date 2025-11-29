@@ -3,14 +3,6 @@
   "timestamp": 1735904596.0,
   "versions": [
     {
-      "timestamp": 1735904596.0,
-      "version": "v1.8.5",
-      "versionCode": 185,
-      "zipUrl": "https://yukari0201.github.io/mmrl-repo/bindhosts/v1.8.5_185.zip",
-      "changelog": "https://yukari0201.github.io/mmrl-repo/bindhosts/v1.8.5_185.md",
-      "size": 31756
-    },
-    {
       "timestamp": 1750727025.0,
       "version": "v2.0.5",
       "versionCode": 205,
@@ -49,6 +41,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.0.9_209.zip",
       "changelog": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.0.9_209.md",
       "size": 128045
+    },
+    {
+      "timestamp": 1764389880.0,
+      "version": "v2.1.0",
+      "versionCode": 210,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.1.0_210.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.1.0_210.md",
+      "size": 131597
     }
   ]
 }
