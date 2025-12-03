@@ -1,6 +1,6 @@
 enable: true
 id: mountify
-last_update: 1764679357.0
+last_update: 1764727611.0
 source: https://github.com/backslashxx/mountify
 update_to: https://raw.githubusercontent.com/backslashxx/mountify/master/update.json
 verified: true
