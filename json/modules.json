@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1764809499.081211
+    "timestamp": 1764829039.584164
   },
   "modules": [
     {
@@ -317,14 +317,14 @@
     {
       "id": "mountify",
       "name": "mountify",
-      "version": "v1.8.5",
-      "versionCode": 185,
+      "version": "v1.8.6",
+      "versionCode": 186,
       "author": "xx, KOWX712",
       "description": "Globally mounted modules via OverlayFS.",
       "verified": true,
       "added": 0,
-      "timestamp": 1764727611.0,
-      "size": 547022,
+      "timestamp": 1764823526.0,
+      "size": 547021,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -347,14 +347,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/mountify/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1763881838.0,
-          "version": "v1.7.7",
-          "versionCode": 177,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.7.7_177.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.7.7_177.md",
-          "size": 544246
-        },
         {
           "timestamp": 1763987317.0,
           "version": "v1.7.8",
@@ -394,6 +386,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.8.5_185.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.8.5_185.md",
           "size": 547022
+        },
+        {
+          "timestamp": 1764823526.0,
+          "version": "v1.8.6",
+          "versionCode": 186,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.8.6_186.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.8.6_186.md",
+          "size": 547021
         }
       ]
     },
