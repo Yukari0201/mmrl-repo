@@ -1,0 +1,14 @@
+{
+  "id": "meta-hybrid",
+  "timestamp": 1764863544.0,
+  "versions": [
+    {
+      "timestamp": 1764863544.0,
+      "version": "v1.0.0-r1",
+      "versionCode": 45,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.0.0-r1_45.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.0.0-r1_45.md",
+      "size": 2293229
+    }
+  ]
+}
