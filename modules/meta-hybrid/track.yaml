@@ -1,0 +1,6 @@
+enable: true
+id: meta-hybrid
+source: https://github.com/YuzakiKokuban/meta-hybrid_mount
+update_to: https://raw.githubusercontent.com/YuzakiKokuban/meta-hybrid_mount/master/update.json
+verified: true
+versions: 1
