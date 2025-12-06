@@ -25,6 +25,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.0.1-r2_48.zip",
       "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.0.1-r2_48.md",
       "size": 2297155
+    },
+    {
+      "timestamp": 1764994314.0,
+      "version": "v1.0.2-r1",
+      "versionCode": 50,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.0.2-r1_50.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.0.2-r1_50.md",
+      "size": 2297864
     }
   ]
 }
