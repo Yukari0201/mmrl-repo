@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1765109882.016861
+    "timestamp": 1765131245.558854
   },
   "modules": [
     {
@@ -172,7 +172,8 @@
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI"
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG"
       ],
       "features": {
         "service": true,
@@ -321,6 +322,7 @@
       "versionCode": 53,
       "author": "YuzakiKokuban & Tools-cx-app",
       "description": "Waiting for daemon...",
+      "metamodule": "1",
       "verified": true,
       "added": 0,
       "timestamp": 1765083867.0,
@@ -396,6 +398,7 @@
       "versionCode": 186,
       "author": "xx, KOWX712",
       "description": "Globally mounted modules via OverlayFS.",
+      "metamodule": "true",
       "verified": true,
       "added": 0,
       "timestamp": 1764823526.0,
@@ -405,7 +408,9 @@
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI",
-        "kernelsu.permission.BOOT_COMPLETED"
+        "mmrl.permission.WEBUI_CONFIG",
+        "kernelsu.permission.BOOT_COMPLETED",
+        "kernelsu.permission.METAMODULE"
       ],
       "features": {
         "service": true,
@@ -488,7 +493,9 @@
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ZYGISK",
         "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI"
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "service": true,
@@ -548,6 +555,7 @@
         "magisk.permission.SEPOLICY",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG",
         "kernelsu.permission.POST_MOUNT",
         "kernelsu.permission.BOOT_COMPLETED"
       ],
@@ -783,7 +791,8 @@
       "permissions": [
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.SEPOLICY",
-        "mmrl.permission.APKS"
+        "mmrl.permission.APKS",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "post_fs_data": true,
@@ -825,7 +834,8 @@
         "magisk.permission.RESETPROP",
         "magisk.permission.SEPOLICY",
         "magisk.permission.ACTION",
-        "mmrl.permission.APKS"
+        "mmrl.permission.APKS",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "service": true,
