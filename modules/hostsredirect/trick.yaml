@@ -1,0 +1,9 @@
+enable: true
+id: hostsredirect
+options:
+  github:
+    source: releases
+source: https://github.com/aviraxp/ZN-hostsredirect
+update_to: https://github.com/aviraxp/ZN-hostsredirect.git
+verified: true
+versions: 1
