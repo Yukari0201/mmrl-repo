@@ -1,0 +1,14 @@
+{
+  "id": "hostsredirect",
+  "timestamp": 1726985454.0,
+  "versions": [
+    {
+      "timestamp": 1726985454.0,
+      "version": "v1 (3-b780821-release)",
+      "versionCode": 3,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/hostsredirect/v1_3-b780821-release.zip",
+      "changelog": "",
+      "size": 9117
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 enable: true
 id: hostsredirect
+last_update: 1726985454.0
 options:
   github:
     source: releases
