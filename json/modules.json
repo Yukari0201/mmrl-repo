@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1765587007.488322
+    "timestamp": 1765606562.051404
   },
   "modules": [
     {
@@ -357,15 +357,15 @@
     {
       "id": "meta-hybrid",
       "name": "Meta-Hybrid Mount",
-      "version": "v1.5.3",
-      "versionCode": 69,
+      "version": "v1.6.0",
+      "versionCode": 70,
       "author": "YuzakiKokuban & Tools-cx-app",
       "description": "Waiting for daemon...",
       "metamodule": "1",
       "verified": true,
       "added": 0,
-      "timestamp": 1765575993.0,
-      "size": 3365024,
+      "timestamp": 1765590871.0,
+      "size": 3361702,
       "permissions": [
         "kernelsu.permission.WEBUI"
       ],
@@ -380,14 +380,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1765356406.0,
-          "version": "v1.2.0-r3",
-          "versionCode": 61,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.2.0-r3_61.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.2.0-r3_61.md",
-          "size": 11125775
-        },
         {
           "timestamp": 1765371258.0,
           "version": "v1.3.0-r1",
@@ -427,6 +419,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.5.3_69.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.5.3_69.md",
           "size": 3365024
+        },
+        {
+          "timestamp": 1765590871.0,
+          "version": "v1.6.0",
+          "versionCode": 70,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.6.0_70.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.6.0_70.md",
+          "size": 3361702
         }
       ]
     },
