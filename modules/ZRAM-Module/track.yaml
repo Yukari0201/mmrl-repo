@@ -1,5 +1,6 @@
 enable: true
 id: ZRAM-Module
+last_update: 1749194767.0
 source: https://github.com/FurLC/ZRAM-Module
 update_to: https://raw.githubusercontent.com/FurLC/ZRAM-Module/main/update.json
 verified: false

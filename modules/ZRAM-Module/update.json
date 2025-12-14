@@ -1,0 +1,14 @@
+{
+  "id": "ZRAM-Module",
+  "timestamp": 1749194767.0,
+  "versions": [
+    {
+      "timestamp": 1749194767.0,
+      "version": "v1.3.0",
+      "versionCode": 130,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/ZRAM-Module/v1.3.0_130.zip",
+      "changelog": "",
+      "size": 4187
+    }
+  ]
+}
