@@ -1,0 +1,6 @@
+enable: true
+id: ZRAM-Module
+source: https://github.com/FurLC/ZRAM-Module
+update_to: https://raw.githubusercontent.com/FurLC/ZRAM-Module/main/update.json
+verified: false
+versions: 1
