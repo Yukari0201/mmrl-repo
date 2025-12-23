@@ -1,6 +1,6 @@
 enable: true
 id: meta-hybrid
-last_update: 1766407336.0
+last_update: 1766503087.0
 source: https://github.com/YuzakiKokuban/meta-hybrid_mount
 update_to: https://raw.githubusercontent.com/YuzakiKokuban/meta-hybrid_mount/master/update.json
 verified: true
