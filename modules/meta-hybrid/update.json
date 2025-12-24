@@ -3,14 +3,6 @@
   "timestamp": 1764863544.0,
   "versions": [
     {
-      "timestamp": 1766173832.0,
-      "version": "v1.7.8",
-      "versionCode": 81,
-      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.7.8_81.zip",
-      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.7.8_81.md",
-      "size": 3509182
-    },
-    {
       "timestamp": 1766208370.0,
       "version": "v1.8.0",
       "versionCode": 82,
@@ -49,6 +41,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.8.72_92.zip",
       "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.8.72_92.md",
       "size": 3726206
+    },
+    {
+      "timestamp": 1766583904.0,
+      "version": "v1.8.73",
+      "versionCode": 93,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.8.73_93.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/v1.8.73_93.md",
+      "size": 3671853
     }
   ]
 }
