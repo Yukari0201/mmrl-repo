@@ -9,6 +9,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/magisk_custompinyindictionary_fcitx/v20250101_20250101.zip",
       "changelog": "https://yukari0201.github.io/mmrl-repo/modules/magisk_custompinyindictionary_fcitx/v20250101_20250101.md",
       "size": 30868270
+    },
+    {
+      "timestamp": 1767223183.0,
+      "version": "v20260101",
+      "versionCode": 20260101,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/magisk_custompinyindictionary_fcitx/v20260101_20260101.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/magisk_custompinyindictionary_fcitx/v20260101_20260101.md",
+      "size": 29847455
     }
   ]
 }

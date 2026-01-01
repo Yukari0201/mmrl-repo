@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1767204987.61707
+    "timestamp": 1767229230.073514
   },
   "modules": [
     {
@@ -367,14 +367,14 @@
     {
       "id": "magisk_custompinyindictionary_fcitx",
       "name": "CustomPinyinDictionary for Fcitx",
-      "version": "v20250101",
-      "versionCode": 20250101,
+      "version": "v20260101",
+      "versionCode": 20260101,
       "author": "wuhgit@github",
       "description": "Fcitx\u81ea\u5efa\u62fc\u97f3\u8f93\u5165\u6cd5\u8bcd\u5e93\uff0c\u767e\u4e07\u5e38\u7528\u8bcd\u6c47\u91cf\u3002",
       "verified": true,
       "added": 0,
-      "timestamp": 1735696693.0,
-      "size": 30868270,
+      "timestamp": 1767223183.0,
+      "size": 29847455,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -390,6 +390,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/magisk_custompinyindictionary_fcitx/v20250101_20250101.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/magisk_custompinyindictionary_fcitx/v20250101_20250101.md",
           "size": 30868270
+        },
+        {
+          "timestamp": 1767223183.0,
+          "version": "v20260101",
+          "versionCode": 20260101,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/magisk_custompinyindictionary_fcitx/v20260101_20260101.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/magisk_custompinyindictionary_fcitx/v20260101_20260101.md",
+          "size": 29847455
         }
       ]
     },

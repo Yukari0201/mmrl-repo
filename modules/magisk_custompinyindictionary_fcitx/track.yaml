@@ -1,7 +1,7 @@
 enable: true
 id: magisk_custompinyindictionary_fcitx
-last_update: 1735696693.0
+last_update: 1767223183.0
 source: https://github.com/wuhgit/CustomPinyinDictionary
 update_to: https://github.com/wuhgit/CustomPinyinDictionary/raw/main/magisk/Fcitx_update.json
 verified: true
-versions: 1
+versions: 2
