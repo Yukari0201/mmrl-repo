@@ -41,6 +41,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/v1.5.2-R23_105002023.zip",
       "changelog": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/v1.5.2-R23_105002023.md",
       "size": 1156068
+    },
+    {
+      "timestamp": 1767436835.0,
+      "version": "v1.5.2-R24",
+      "versionCode": 105002024,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/v1.5.2-R24_105002024.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/v1.5.2-R24_105002024.md",
+      "size": 1187127
     }
   ]
 }
