@@ -3,14 +3,6 @@
   "timestamp": 1763464987.0,
   "versions": [
     {
-      "timestamp": 1764159276.0,
-      "version": "v1.8.1",
-      "versionCode": 181,
-      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.8.1_181.zip",
-      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.8.1_181.md",
-      "size": 546885
-    },
-    {
       "timestamp": 1764679357.0,
       "version": "v1.8.3",
       "versionCode": 183,
@@ -49,6 +41,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.8.8_188.zip",
       "changelog": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.8.8_188.md",
       "size": 549112
+    },
+    {
+      "timestamp": 1768147805.0,
+      "version": "v1.8.9",
+      "versionCode": 189,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.8.9_189.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/mountify/v1.8.9_189.md",
+      "size": 548946
     }
   ]
 }
