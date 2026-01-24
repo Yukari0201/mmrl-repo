@@ -33,6 +33,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Plana_278.zip",
       "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Plana_278.md",
       "size": 17775
+    },
+    {
+      "timestamp": 1769220799.0,
+      "version": "Neuro",
+      "versionCode": 279,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Neuro_279.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Neuro_279.md",
+      "size": 17497
     }
   ]
 }
