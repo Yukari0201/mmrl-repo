@@ -1,7 +1,7 @@
 added: 1733301165
 enable: true
 id: bindhosts
-last_update: 1764389880.0
+last_update: 1769529253.0
 source: https://github.com/bindhosts/bindhosts
 update_to: https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/update.json
 verified: true

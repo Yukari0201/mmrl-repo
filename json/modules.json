@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1769516668.584906
+    "timestamp": 1769538164.938071
   },
   "modules": [
     {
@@ -193,8 +193,8 @@
     {
       "id": "bindhosts",
       "name": "bindhosts",
-      "version": "v2.1.0",
-      "versionCode": 210,
+      "version": "v2.1.1",
+      "versionCode": 211,
       "author": "xx, KOWX712",
       "description": "Systemless hosts for APatch, KernelSU and Magisk ",
       "added": 1733301165,
@@ -213,8 +213,8 @@
       ],
       "support": "https://github.com/bindhosts/bindhosts/issues",
       "license": "WTFPL",
-      "timestamp": 1764389880.0,
-      "size": 131597,
+      "timestamp": 1769529253.0,
+      "size": 132047,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -236,14 +236,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1750727025.0,
-          "version": "v2.0.5",
-          "versionCode": 205,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.0.5_205.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.0.5_205.md",
-          "size": 116707
-        },
         {
           "timestamp": 1752752498.0,
           "version": "v2.0.6",
@@ -283,6 +275,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.1.0_210.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.1.0_210.md",
           "size": 131597
+        },
+        {
+          "timestamp": 1769529253.0,
+          "version": "v2.1.1",
+          "versionCode": 211,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.1.1_211.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.1.1_211.md",
+          "size": 132047
         }
       ]
     },
