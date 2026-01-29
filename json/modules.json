@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1769668387.53723
+    "timestamp": 1769689810.587809
   },
   "modules": [
     {
@@ -635,14 +635,14 @@
     {
       "id": "susfs4ksu",
       "name": "SUSFS-FOR-KERNELSU",
-      "version": "v1.5.2-R24",
-      "versionCode": 105002024,
+      "version": "v1.5.2-R25",
+      "versionCode": 105002025,
       "author": "sidex15 & simonpunk",
       "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
       "verified": true,
       "added": 0,
-      "timestamp": 1767436835.0,
-      "size": 1187127,
+      "timestamp": 1769682558.0,
+      "size": 983240,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -670,14 +670,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1749780721.0,
-          "version": "v1.5.2-R19",
-          "versionCode": 105002019,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/v1.5.2-R19_105002019.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/v1.5.2-R19_105002019.md",
-          "size": 1276688
-        },
         {
           "timestamp": 1751808417.0,
           "version": "v1.5.2-R20",
@@ -717,6 +709,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/v1.5.2-R24_105002024.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/v1.5.2-R24_105002024.md",
           "size": 1187127
+        },
+        {
+          "timestamp": 1769682558.0,
+          "version": "v1.5.2-R25",
+          "versionCode": 105002025,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/v1.5.2-R25_105002025.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/susfs4ksu/v1.5.2-R25_105002025.md",
+          "size": 983240
         }
       ]
     },
