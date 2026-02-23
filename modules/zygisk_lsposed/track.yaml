@@ -1,10 +1,10 @@
 enable: true
 id: zygisk_lsposed
-last_update: 1757492066.0
+last_update: 1771796033.0
 options:
   github:
     source: actions
 source: https://github.com/re-zero001/LSPosed-Irena
 update_to: https://github.com/re-zero001/LSPosed-Irena.git
 verified: true
-versions: 3
+versions: 4
