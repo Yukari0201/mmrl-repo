@@ -25,6 +25,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.4-inject-s_44.zip",
       "changelog": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.4-inject-s_44.md",
       "size": 598301
+    },
+    {
+      "timestamp": 1774675917.0,
+      "version": "v4.5-inject-s",
+      "versionCode": 45,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.5-inject-s_45.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.5-inject-s_45.md",
+      "size": 592915
     }
   ]
 }
