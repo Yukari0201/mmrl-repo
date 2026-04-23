@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1776907566.344896
+    "timestamp": 1776928824.290128
   },
   "modules": [
     {
@@ -163,14 +163,14 @@
     {
       "id": "asoul_affinity_opt",
       "name": "A-SOUL Games Optimization",
-      "version": "Evil",
-      "versionCode": 280,
+      "version": "Kanata",
+      "versionCode": 281,
       "author": "nakixii",
       "description": "Game threads tweaker for Android.",
       "verified": true,
       "added": 0,
-      "timestamp": 1773550104.0,
-      "size": 17910,
+      "timestamp": 1776922107.0,
+      "size": 17300,
       "permissions": [
         "magisk.permission.SERVICE"
       ],
@@ -185,14 +185,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1747729427.0,
-          "version": "Enanan",
-          "versionCode": 275,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Enanan_275.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Enanan_275.md",
-          "size": 14722
-        },
         {
           "timestamp": 1753203209.0,
           "version": "Mafuyu",
@@ -232,6 +224,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Evil_280.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Evil_280.md",
           "size": 17910
+        },
+        {
+          "timestamp": 1776922107.0,
+          "version": "Kanata",
+          "versionCode": 281,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Kanata_281.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Kanata_281.md",
+          "size": 17300
         }
       ]
     },
