@@ -1,0 +1,6 @@
+enable: true
+id: busybox-ndk
+source: https://github.com/Magisk-Modules-Repo/busybox-ndk
+update_to: https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/update.json
+verified: true
+versions: 1
