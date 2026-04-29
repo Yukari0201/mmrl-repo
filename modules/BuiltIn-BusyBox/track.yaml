@@ -1,7 +1,0 @@
-enable: true
-id: BuiltIn-BusyBox
-last_update: 1691527282.0
-source: https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox
-update_to: https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/update.json
-verified: true
-versions: 1
