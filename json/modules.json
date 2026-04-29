@@ -9,46 +9,9 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1777427525.957743
+    "timestamp": 1777441255.445931
   },
   "modules": [
-    {
-      "id": "BuiltIn-BusyBox",
-      "name": "Magisk built-in BusyBox",
-      "version": "1.0.7",
-      "versionCode": 107,
-      "author": "zgfg @ xda",
-      "description": "Systemless BusyBox symlinked to the Magisk built-in busybox binary",
-      "verified": true,
-      "added": 0,
-      "timestamp": 1691527282.0,
-      "size": 10031,
-      "permissions": [
-        "magisk.permission.SERVICE",
-        "magisk.permission.POST_FS_DATA"
-      ],
-      "features": {
-        "service": true,
-        "post_fs_data": true
-      },
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": null,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox",
-        "antifeatures": null,
-        "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/BuiltIn-BusyBox/track.yaml"
-      },
-      "versions": [
-        {
-          "timestamp": 1691527282.0,
-          "version": "1.0.7",
-          "versionCode": 107,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/BuiltIn-BusyBox/1.0.7_107.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/BuiltIn-BusyBox/1.0.7_107.md",
-          "size": 10031
-        }
-      ]
-    },
     {
       "id": "TA_utl",
       "name": "Tricky Addon - Update Target List",
@@ -328,6 +291,37 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.1.2_212.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/bindhosts/v2.1.2_212.md",
           "size": 165660
+        }
+      ]
+    },
+    {
+      "id": "busybox-ndk",
+      "name": "Busybox for Android NDK",
+      "version": "1.36.1",
+      "versionCode": 13614,
+      "author": "osm0sis @ xda-developers",
+      "description": "Static busybox binary for all Android architectures built with the NDK",
+      "donate": "https://www.paypal.me/osm0sis",
+      "support": "https://forum.xda-developers.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421",
+      "verified": true,
+      "added": 0,
+      "timestamp": 1777441252.0,
+      "size": 9918926,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/Magisk-Modules-Repo/busybox-ndk",
+        "antifeatures": null,
+        "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/busybox-ndk/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1777441252.0,
+          "version": "1.36.1",
+          "versionCode": 13614,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/busybox-ndk/1.36.1_13614.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/busybox-ndk/1.36.1_13614.md",
+          "size": 9918926
         }
       ]
     },
