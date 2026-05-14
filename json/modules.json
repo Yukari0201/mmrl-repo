@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1778765165.977662
+    "timestamp": 1778786761.921281
   },
   "modules": [
     {
@@ -993,14 +993,14 @@
     {
       "id": "zygisk_lsposed",
       "name": "LSPosed - Irena",
-      "version": "v1.9.2 (7300)",
-      "versionCode": 7300,
-      "author": "LSPosed Developers & Irena",
+      "version": "v2.0.0 (7316)",
+      "versionCode": 7316,
+      "author": "LSPosed Developers & Ireina",
       "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16. Requires Magisk 26.0+ and Zygisk enabled.",
       "verified": true,
       "added": 0,
-      "timestamp": 1778599240.0,
-      "size": 2741320,
+      "timestamp": 1778772765.0,
+      "size": 2651008,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1065,6 +1065,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/v1.9.2_7300.zip",
           "changelog": "",
           "size": 2741320
+        },
+        {
+          "timestamp": 1778772765.0,
+          "version": "v2.0.0 (7316)",
+          "versionCode": 7316,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/v2.0.0_7316.zip",
+          "changelog": "",
+          "size": 2651008
         }
       ]
     },
