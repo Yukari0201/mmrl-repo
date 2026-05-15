@@ -1,7 +1,7 @@
 enable: true
 id: zygisk-sui
-last_update: 1778729458.0
+last_update: 1778833071.0
 source: https://github.com/xiaotong6666/Sui
 update_to: https://xiaotong6666.github.io/Sui/sui_zygisk.json
 verified: true
-versions: 2
+versions: 3
