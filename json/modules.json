@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1779069987.190273
+    "timestamp": 1779097003.278627
   },
   "modules": [
     {
@@ -941,14 +941,14 @@
     {
       "id": "zygisk-sui",
       "name": "Zygisk - Sui",
-      "version": "v13.5.4.3 (481-20de56d-release)",
-      "versionCode": 481,
+      "version": "v13.5.4.3 (484-d483c33-release)",
+      "versionCode": 484,
       "author": "Sui Contributors",
       "description": "Fork by XiaoTong.\\nModern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList.",
       "verified": true,
       "added": 0,
-      "timestamp": 1778988244.0,
-      "size": 2812277,
+      "timestamp": 1779087744.0,
+      "size": 2812252,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1003,6 +1003,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_481-20de56d-release.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_481-20de56d-release.md",
           "size": 2812277
+        },
+        {
+          "timestamp": 1779087744.0,
+          "version": "v13.5.4.3 (484-d483c33-release)",
+          "versionCode": 484,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_484-d483c33-release.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_484-d483c33-release.md",
+          "size": 2812252
         }
       ]
     },
