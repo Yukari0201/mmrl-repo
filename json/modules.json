@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1780394359.372456
+    "timestamp": 1780415704.139513
   },
   "modules": [
     {
@@ -943,14 +943,14 @@
     {
       "id": "zygisk-sui",
       "name": "Zygisk - Sui",
-      "version": "v13.5.4.3 (491-f07da10-release)",
-      "versionCode": 491,
+      "version": "v13.5.4.3 (492-11af908-release)",
+      "versionCode": 492,
       "author": "Sui Contributors",
       "description": "Fork by XiaoTong.\\nModern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList.",
       "verified": true,
       "added": 0,
-      "timestamp": 1780328086.0,
-      "size": 2876719,
+      "timestamp": 1780409797.0,
+      "size": 2877017,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -974,14 +974,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1779477071.0,
-          "version": "v13.5.4.3 (485-7de2bd4-release)",
-          "versionCode": 485,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_485-7de2bd4-release.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_485-7de2bd4-release.md",
-          "size": 2810373
-        },
         {
           "timestamp": 1779948427.0,
           "version": "v13.5.4.3 (486-7c850b9-release)",
@@ -1021,6 +1013,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_491-f07da10-release.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_491-f07da10-release.md",
           "size": 2876719
+        },
+        {
+          "timestamp": 1780409797.0,
+          "version": "v13.5.4.3 (492-11af908-release)",
+          "versionCode": 492,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_492-11af908-release.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_492-11af908-release.md",
+          "size": 2877017
         }
       ]
     },
