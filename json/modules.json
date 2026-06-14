@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1781427584.844632
+    "timestamp": 1781443479.175608
   },
   "modules": [
     {
@@ -126,14 +126,14 @@
     {
       "id": "asoul_affinity_opt",
       "name": "A-SOUL Games Optimization",
-      "version": "Kanata",
-      "versionCode": 281,
+      "version": "Shiroko",
+      "versionCode": 282,
       "author": "nakixii",
       "description": "Game threads tweaker for Android.",
       "verified": true,
       "added": 0,
-      "timestamp": 1776922107.0,
-      "size": 17300,
+      "timestamp": 1781432121.0,
+      "size": 17443,
       "permissions": [
         "magisk.permission.SERVICE"
       ],
@@ -148,14 +148,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1753203209.0,
-          "version": "Mafuyu",
-          "versionCode": 276,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Mafuyu_276.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Mafuyu_276.md",
-          "size": 15064
-        },
         {
           "timestamp": 1755660787.0,
           "version": "Arona",
@@ -195,6 +187,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Kanata_281.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Kanata_281.md",
           "size": 17300
+        },
+        {
+          "timestamp": 1781432121.0,
+          "version": "Shiroko",
+          "versionCode": 282,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Shiroko_282.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Shiroko_282.md",
+          "size": 17443
         }
       ]
     },
