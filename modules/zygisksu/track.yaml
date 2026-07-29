@@ -1,10 +1,7 @@
 enable: true
 id: zygisksu
 last_update: 1784202679.0
-options:
-  github:
-    source: releases
 source: https://github.com/Dr-TSNG/ZygiskNext
-update_to: https://github.com/Dr-TSNG/ZygiskNext.git
+update_to: https://api.nullptr.icu/android/zygisk-next/static/update.json
 verified: true
 versions: 6
