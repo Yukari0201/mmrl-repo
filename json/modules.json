@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1785328084.252572
+    "timestamp": 1785328375.870254
   },
   "modules": [
     {
@@ -1048,19 +1048,17 @@
     },
     {
       "id": "zygisk_lsposed",
-      "name": "LSPosed - Irena",
-      "version": "v2.0.0 (7316)",
-      "versionCode": 7316,
-      "author": "LSPosed Developers & Ireina",
-      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16. Requires Magisk 26.0+ and Zygisk enabled.",
+      "name": "LSPosed",
+      "version": "v2.1.1 (7790)",
+      "versionCode": 7790,
+      "author": "LSPosed Developers",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 9 ~ 17. Requires Zygisk enabled.",
       "verified": true,
       "added": 0,
-      "timestamp": 1778772765.0,
-      "size": 2651008,
+      "timestamp": 1785160804.0,
+      "size": 5803220,
       "permissions": [
         "magisk.permission.SERVICE",
-        "magisk.permission.POST_FS_DATA",
-        "magisk.permission.RESETPROP",
         "magisk.permission.SEPOLICY",
         "magisk.permission.ACTION",
         "mmrl.permission.APKS",
@@ -1068,28 +1066,18 @@
       ],
       "features": {
         "service": true,
-        "post_fs_data": true,
-        "resetprop": true,
         "sepolicy": true,
         "action": true,
         "apks": true
       },
       "track": {
-        "type": "UNKNOWN",
+        "type": "ONLINE_JSON",
         "added": null,
         "source": "https://lsposed.org/",
         "antifeatures": null,
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1729269316.0,
-          "version": "v1.9.2 (7249)",
-          "versionCode": 7249,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/v1.9.2_7249.zip",
-          "changelog": "",
-          "size": 2464107
-        },
         {
           "timestamp": 1755600567.0,
           "version": "v1.9.2 (7280)",
@@ -1129,47 +1117,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/v2.0.0_7316.zip",
           "changelog": "",
           "size": 2651008
-        }
-      ]
-    },
-    {
-      "id": "zygisk_shamiko",
-      "name": "Shamiko",
-      "version": "v1.2.5 (414)",
-      "versionCode": 414,
-      "author": "LSPosed Developers",
-      "description": "\u3053\u308c\u3067\u52dd\u3063\u305f\u3068\u601d\u3046\u306a\u3088\u2015\u2015\u2015!!",
-      "verified": true,
-      "added": 0,
-      "timestamp": 1750246628.0,
-      "size": 6523936,
-      "permissions": [
-        "magisk.permission.SERVICE",
-        "magisk.permission.POST_FS_DATA",
-        "magisk.permission.SEPOLICY",
-        "magisk.permission.ZYGISK"
-      ],
-      "features": {
-        "service": true,
-        "post_fs_data": true,
-        "sepolicy": true,
-        "zygisk": true
-      },
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": null,
-        "source": "https://github.com/LSPosed/LSPosed.github.io",
-        "antifeatures": null,
-        "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_shamiko/track.yaml"
-      },
-      "versions": [
+        },
         {
-          "timestamp": 1750246628.0,
-          "version": "v1.2.5 (414)",
-          "versionCode": 414,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_shamiko/v1.2.5_414.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_shamiko/v1.2.5_414.md",
-          "size": 6523936
+          "timestamp": 1785160804.0,
+          "version": "v2.1.1 (7790)",
+          "versionCode": 7790,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/v2.1.1_7790.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/v2.1.1_7790.md",
+          "size": 5803220
         }
       ]
     },

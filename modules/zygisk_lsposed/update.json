@@ -3,14 +3,6 @@
   "timestamp": 1729269316.0,
   "versions": [
     {
-      "timestamp": 1729269316.0,
-      "version": "v1.9.2 (7249)",
-      "versionCode": 7249,
-      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/v1.9.2_7249.zip",
-      "changelog": "",
-      "size": 2464107
-    },
-    {
       "timestamp": 1755600567.0,
       "version": "v1.9.2 (7280)",
       "versionCode": 7280,
@@ -49,6 +41,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/v2.0.0_7316.zip",
       "changelog": "",
       "size": 2651008
+    },
+    {
+      "timestamp": 1785160804.0,
+      "version": "v2.1.1 (7790)",
+      "versionCode": 7790,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/v2.1.1_7790.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk_lsposed/v2.1.1_7790.md",
+      "size": 5803220
     }
   ]
 }
