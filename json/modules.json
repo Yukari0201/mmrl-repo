@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1786236517.848587
+    "timestamp": 1786257324.072969
   },
   "modules": [
     {
@@ -134,14 +134,14 @@
     {
       "id": "asoul_affinity_opt",
       "name": "A-SOUL Games Optimization",
-      "version": "Shiroko",
-      "versionCode": 282,
+      "version": "Ibuki",
+      "versionCode": 283,
       "author": "nakixii",
       "description": "Game threads tweaker for Android.",
       "verified": true,
       "added": 0,
-      "timestamp": 1781432121.0,
-      "size": 17443,
+      "timestamp": 1786250657.0,
+      "size": 17545,
       "permissions": [
         "magisk.permission.SERVICE"
       ],
@@ -156,14 +156,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1755660787.0,
-          "version": "Arona",
-          "versionCode": 277,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Arona_277.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Arona_277.md",
-          "size": 17363
-        },
         {
           "timestamp": 1764148245.0,
           "version": "Plana",
@@ -203,6 +195,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Shiroko_282.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Shiroko_282.md",
           "size": 17443
+        },
+        {
+          "timestamp": 1786250657.0,
+          "version": "Ibuki",
+          "versionCode": 283,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Ibuki_283.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Ibuki_283.md",
+          "size": 17545
         }
       ]
     },
