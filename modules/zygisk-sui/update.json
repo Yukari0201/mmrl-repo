@@ -3,14 +3,6 @@
   "timestamp": 1695131134.0,
   "versions": [
     {
-      "timestamp": 1786090853.0,
-      "version": "v13.5.4.3 (525-3c32576-release)",
-      "versionCode": 525,
-      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_525-3c32576-release.zip",
-      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_525-3c32576-release.md",
-      "size": 1702540
-    },
-    {
       "timestamp": 1786339234.0,
       "version": "v13.5.4.3 (526-e0a1a19-release)",
       "versionCode": 526,
@@ -49,6 +41,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_531-95cf2f6-release.zip",
       "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_531-95cf2f6-release.md",
       "size": 1711499
+    },
+    {
+      "timestamp": 1787638512.0,
+      "version": "v13.5.4.3 (533-28c5652-release)",
+      "versionCode": 533,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_533-28c5652-release.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_533-28c5652-release.md",
+      "size": 1711500
     }
   ]
 }
