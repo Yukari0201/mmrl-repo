@@ -1,6 +1,6 @@
 enable: true
 id: zygisk_lsposed
-last_update: 1785160804.0
+last_update: 1788063367.0
 source: https://lsposed.org/
 update_to: https://lsposed.zip/update.json
 verified: true
