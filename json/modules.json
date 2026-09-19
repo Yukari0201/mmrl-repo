@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1789761950.769166
+    "timestamp": 1789783374.329805
   },
   "modules": [
     {
@@ -134,14 +134,14 @@
     {
       "id": "asoul_affinity_opt",
       "name": "A-SOUL Games Optimization",
-      "version": "Ibuki",
-      "versionCode": 283,
+      "version": "Kana",
+      "versionCode": 284,
       "author": "nakixii",
       "description": "Game threads tweaker for Android.",
       "verified": true,
       "added": 0,
-      "timestamp": 1786250657.0,
-      "size": 17545,
+      "timestamp": 1789763071.0,
+      "size": 19491,
       "permissions": [
         "magisk.permission.SERVICE"
       ],
@@ -156,14 +156,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1764148245.0,
-          "version": "Plana",
-          "versionCode": 278,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Plana_278.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Plana_278.md",
-          "size": 17775
-        },
         {
           "timestamp": 1769220799.0,
           "version": "Neuro",
@@ -203,6 +195,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Ibuki_283.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Ibuki_283.md",
           "size": 17545
+        },
+        {
+          "timestamp": 1789763071.0,
+          "version": "Kana",
+          "versionCode": 284,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Kana_284.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/asoul_affinity_opt/Kana_284.md",
+          "size": 19491
         }
       ]
     },
