@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1789956475.763797
+    "timestamp": 1789989548.440986
   },
   "modules": [
     {
@@ -461,15 +461,15 @@
     {
       "id": "meta-hybrid",
       "name": "Hybrid Mount",
-      "version": "6.2.0",
-      "versionCode": 602000,
+      "version": "6.2.1-rc.3",
+      "versionCode": 602001303,
       "author": "Hybrid Mount Developers",
-      "description": "Hybrid Mount: mixed OverlayFS and Magic Mount for KernelSU and APatch",
+      "description": "Hybrid Mount: mixed OverlayFS, Magic Mount, and VFS for KernelSU and APatch",
       "metamodule": "1",
       "verified": true,
       "added": 0,
-      "timestamp": 1789208446.0,
-      "size": 3433818,
+      "timestamp": 1789967209.0,
+      "size": 4826117,
       "permissions": [
         "kernelsu.permission.WEBUI",
         "kernelsu.permission.BOOT_COMPLETED"
@@ -486,14 +486,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1787738731.0,
-          "version": "6.0.0",
-          "versionCode": 600000,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.0.0_600000.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.0.0_600000.md",
-          "size": 2764263
-        },
         {
           "timestamp": 1787747452.0,
           "version": "6.0.1",
@@ -533,6 +525,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.0_602000.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.0_602000.md",
           "size": 3433818
+        },
+        {
+          "timestamp": 1789967209.0,
+          "version": "6.2.1-rc.3",
+          "versionCode": 602001303,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.1-rc.3_602001303.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.1-rc.3_602001303.md",
+          "size": 4826117
         }
       ]
     },
@@ -971,14 +971,14 @@
     {
       "id": "zygisk-sui",
       "name": "Zygisk - Sui",
-      "version": "v13.5.4.3 (549-1dee4ee-release)",
-      "versionCode": 549,
+      "version": "v13.5.4.3 (551-0e6fe3c-release)",
+      "versionCode": 551,
       "author": "Sui Contributors",
       "description": "Fork by XiaoTong.\\nModern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList.",
       "verified": true,
       "added": 0,
-      "timestamp": 1789445946.0,
-      "size": 1736912,
+      "timestamp": 1789959306.0,
+      "size": 1355711,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1002,14 +1002,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1789105422.0,
-          "version": "v13.5.4.3 (542-23d4384-release)",
-          "versionCode": 542,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_542-23d4384-release.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_542-23d4384-release.md",
-          "size": 1724481
-        },
         {
           "timestamp": 1789141792.0,
           "version": "v13.5.4.3 (543-5b2aa16-release)",
@@ -1049,6 +1041,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_549-1dee4ee-release.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_549-1dee4ee-release.md",
           "size": 1736912
+        },
+        {
+          "timestamp": 1789959306.0,
+          "version": "v13.5.4.3 (551-0e6fe3c-release)",
+          "versionCode": 551,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_551-0e6fe3c-release.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_551-0e6fe3c-release.md",
+          "size": 1355711
         }
       ]
     },
