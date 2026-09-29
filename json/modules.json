@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1790682236.608078
+    "timestamp": 1790701849.014595
   },
   "modules": [
     {
@@ -461,15 +461,15 @@
     {
       "id": "meta-hybrid",
       "name": "Hybrid Mount",
-      "version": "6.2.1-rc.3",
-      "versionCode": 602001303,
+      "version": "6.2.1",
+      "versionCode": 602001999,
       "author": "Hybrid Mount Developers",
       "description": "Hybrid Mount: mixed OverlayFS, Magic Mount, and VFS for KernelSU and APatch",
       "metamodule": "1",
       "verified": true,
       "added": 0,
-      "timestamp": 1789967209.0,
-      "size": 4826117,
+      "timestamp": 1789996082.0,
+      "size": 4968062,
       "permissions": [
         "kernelsu.permission.WEBUI",
         "kernelsu.permission.BOOT_COMPLETED"
@@ -486,14 +486,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1787747452.0,
-          "version": "6.0.1",
-          "versionCode": 600001,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.0.1_600001.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.0.1_600001.md",
-          "size": 2803762
-        },
         {
           "timestamp": 1788026305.0,
           "version": "6.1.2",
@@ -533,6 +525,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.1-rc.3_602001303.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.1-rc.3_602001303.md",
           "size": 4826117
+        },
+        {
+          "timestamp": 1789996082.0,
+          "version": "6.2.1",
+          "versionCode": 602001999,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.1_602001999.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.1_602001999.md",
+          "size": 4968062
         }
       ]
     },
