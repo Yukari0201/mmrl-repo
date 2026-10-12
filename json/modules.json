@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1791812778.222951
+    "timestamp": 1791849264.205997
   },
   "modules": [
     {
@@ -625,14 +625,14 @@
     {
       "id": "playintegrityfix",
       "name": "Play Integrity Fix [INJECT]",
-      "version": "v4.7-1-inject-s",
-      "versionCode": 471,
+      "version": "v4.8-inject-s",
+      "versionCode": 480,
       "author": "chiteroman, KOWX712",
       "description": "Universal modular fix for Play Integrity on devices running Android 8-17",
       "verified": true,
       "added": 0,
-      "timestamp": 1783849380.0,
-      "size": 660329,
+      "timestamp": 1791812983.0,
+      "size": 691564,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -655,14 +655,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1756811549.0,
-          "version": "v4.3-inject-s",
-          "versionCode": 43,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.3-inject-s_43.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.3-inject-s_43.md",
-          "size": 512908
-        },
         {
           "timestamp": 1762093943.0,
           "version": "v4.4-inject-s",
@@ -702,6 +694,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.7-1-inject-s_471.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.7-1-inject-s_471.md",
           "size": 660329
+        },
+        {
+          "timestamp": 1791812983.0,
+          "version": "v4.8-inject-s",
+          "versionCode": 480,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.8-inject-s_480.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.8-inject-s_480.md",
+          "size": 691564
         }
       ]
     },
@@ -971,14 +971,14 @@
     {
       "id": "zygisk-sui",
       "name": "Zygisk - Sui",
-      "version": "v13.5.4.3 (560-0fda35f-release)",
-      "versionCode": 560,
+      "version": "v13.5.4.3 (561-ff124fb-release)",
+      "versionCode": 561,
       "author": "Sui Contributors",
       "description": "Fork by XiaoTong.\\nModern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList.",
       "verified": true,
       "added": 0,
-      "timestamp": 1791305899.0,
-      "size": 1360194,
+      "timestamp": 1791815687.0,
+      "size": 1360191,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1002,14 +1002,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1789445946.0,
-          "version": "v13.5.4.3 (549-1dee4ee-release)",
-          "versionCode": 549,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_549-1dee4ee-release.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_549-1dee4ee-release.md",
-          "size": 1736912
-        },
         {
           "timestamp": 1789959306.0,
           "version": "v13.5.4.3 (551-0e6fe3c-release)",
@@ -1049,6 +1041,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_560-0fda35f-release.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_560-0fda35f-release.md",
           "size": 1360194
+        },
+        {
+          "timestamp": 1791815687.0,
+          "version": "v13.5.4.3 (561-ff124fb-release)",
+          "versionCode": 561,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_561-ff124fb-release.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisk-sui/v13.5.4.3_561-ff124fb-release.md",
+          "size": 1360191
         }
       ]
     },
@@ -1137,14 +1137,14 @@
     {
       "id": "zygisksu",
       "name": "Zygisk Next",
-      "version": "1.5.0 (843-5217106-release)",
-      "versionCode": 843,
-      "author": "5ec1cff, Nullptr, aviraxp",
+      "version": "1.5.1 (862-56ae062-release)",
+      "versionCode": 862,
+      "author": "LSPosed Developers",
       "description": "Standalone implementation of Zygisk.",
       "verified": true,
       "added": 0,
-      "timestamp": 1787705664.0,
-      "size": 7529581,
+      "timestamp": 1791815458.0,
+      "size": 6682412,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1167,14 +1167,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1781787077.0,
-          "version": "1.4.0 (768-37ee2d5-release)",
-          "versionCode": 768,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.4.0_768-37ee2d5-release.zip",
-          "changelog": "",
-          "size": 5844399
-        },
         {
           "timestamp": 1782134372.0,
           "version": "1.4.2 (789-119aaa0-release)",
@@ -1214,6 +1206,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.5.0_843-5217106-release.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.5.0_843-5217106-release.md",
           "size": 7529581
+        },
+        {
+          "timestamp": 1791815458.0,
+          "version": "1.5.1 (862-56ae062-release)",
+          "versionCode": 862,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.5.1_862-56ae062-release.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.5.1_862-56ae062-release.md",
+          "size": 6682412
         }
       ]
     }

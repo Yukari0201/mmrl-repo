@@ -3,14 +3,6 @@
   "timestamp": 1752336725.0,
   "versions": [
     {
-      "timestamp": 1756811549.0,
-      "version": "v4.3-inject-s",
-      "versionCode": 43,
-      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.3-inject-s_43.zip",
-      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.3-inject-s_43.md",
-      "size": 512908
-    },
-    {
       "timestamp": 1762093943.0,
       "version": "v4.4-inject-s",
       "versionCode": 44,
@@ -49,6 +41,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.7-1-inject-s_471.zip",
       "changelog": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.7-1-inject-s_471.md",
       "size": 660329
+    },
+    {
+      "timestamp": 1791812983.0,
+      "version": "v4.8-inject-s",
+      "versionCode": 480,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.8-inject-s_480.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/playintegrityfix/v4.8-inject-s_480.md",
+      "size": 691564
     }
   ]
 }

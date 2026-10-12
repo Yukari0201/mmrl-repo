@@ -3,14 +3,6 @@
   "timestamp": 1748603687.0,
   "versions": [
     {
-      "timestamp": 1781787077.0,
-      "version": "1.4.0 (768-37ee2d5-release)",
-      "versionCode": 768,
-      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.4.0_768-37ee2d5-release.zip",
-      "changelog": "",
-      "size": 5844399
-    },
-    {
       "timestamp": 1782134372.0,
       "version": "1.4.2 (789-119aaa0-release)",
       "versionCode": 789,
@@ -49,6 +41,14 @@
       "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.5.0_843-5217106-release.zip",
       "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.5.0_843-5217106-release.md",
       "size": 7529581
+    },
+    {
+      "timestamp": 1791815458.0,
+      "version": "1.5.1 (862-56ae062-release)",
+      "versionCode": 862,
+      "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.5.1_862-56ae062-release.zip",
+      "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.5.1_862-56ae062-release.md",
+      "size": 6682412
     }
   ]
 }
