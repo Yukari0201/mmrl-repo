@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1791896739.227335
+    "timestamp": 1791928966.53597
   },
   "modules": [
     {
@@ -1137,14 +1137,14 @@
     {
       "id": "zygisksu",
       "name": "Zygisk Next",
-      "version": "1.5.1 (862-56ae062-release)",
-      "versionCode": 862,
+      "version": "1.5.2 (864-a4a72ce-release)",
+      "versionCode": 864,
       "author": "LSPosed Developers",
       "description": "Standalone implementation of Zygisk.",
       "verified": true,
       "added": 0,
-      "timestamp": 1791815458.0,
-      "size": 6682412,
+      "timestamp": 1791901439.0,
+      "size": 6714344,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1167,14 +1167,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1782134372.0,
-          "version": "1.4.2 (789-119aaa0-release)",
-          "versionCode": 789,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.4.2_789-119aaa0-release.zip",
-          "changelog": "",
-          "size": 7032593
-        },
         {
           "timestamp": 1784202679.0,
           "version": "1.4.3 (817-e815170-release)",
@@ -1214,6 +1206,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.5.1_862-56ae062-release.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.5.1_862-56ae062-release.md",
           "size": 6682412
+        },
+        {
+          "timestamp": 1791901439.0,
+          "version": "1.5.2 (864-a4a72ce-release)",
+          "versionCode": 864,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.5.2_864-a4a72ce-release.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/zygisksu/1.5.2_864-a4a72ce-release.md",
+          "size": 6714344
         }
       ]
     }
