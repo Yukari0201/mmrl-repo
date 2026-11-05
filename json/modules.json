@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1793851267.65214
+    "timestamp": 1793885954.860372
   },
   "modules": [
     {
@@ -461,21 +461,23 @@
     {
       "id": "meta-hybrid",
       "name": "Hybrid Mount",
-      "version": "6.2.3",
-      "versionCode": 602003999,
+      "version": "6.2.6-rc.1",
+      "versionCode": 602006301,
       "author": "Hybrid Mount Developers",
       "description": "Hybrid Mount: mixed OverlayFS, Magic Mount, and VFS for KernelSU and APatch",
       "metamodule": "1",
       "verified": true,
       "added": 0,
-      "timestamp": 1791694186.0,
-      "size": 4923231,
+      "timestamp": 1793866553.0,
+      "size": 5032123,
       "permissions": [
         "kernelsu.permission.WEBUI",
+        "kernelsu.permission.POST_MOUNT",
         "kernelsu.permission.BOOT_COMPLETED"
       ],
       "features": {
         "webroot": true,
+        "post_mount": true,
         "boot_completed": true
       },
       "track": {
@@ -486,14 +488,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1789996082.0,
-          "version": "6.2.1",
-          "versionCode": 602001999,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.1_602001999.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.1_602001999.md",
-          "size": 4968062
-        },
         {
           "timestamp": 1790697697.0,
           "version": "6.2.2",
@@ -533,6 +527,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.3_602003999.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.3_602003999.md",
           "size": 4923231
+        },
+        {
+          "timestamp": 1793866553.0,
+          "version": "6.2.6-rc.1",
+          "versionCode": 602006301,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.6-rc.1_602006301.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.6-rc.1_602006301.md",
+          "size": 5032123
         }
       ]
     },
