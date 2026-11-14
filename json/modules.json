@@ -9,7 +9,7 @@
   "description": "Yukari0201's MMRL Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1794628441.991186
+    "timestamp": 1794659954.65719
   },
   "modules": [
     {
@@ -461,15 +461,15 @@
     {
       "id": "meta-hybrid",
       "name": "Hybrid Mount",
-      "version": "6.2.6-rc.2",
-      "versionCode": 602006302,
+      "version": "6.2.6-rc.4",
+      "versionCode": 602006304,
       "author": "Hybrid Mount Developers",
       "description": "Hybrid Mount: mixed OverlayFS, Magic Mount, and VFS for KernelSU and APatch",
       "metamodule": "1",
       "verified": true,
       "added": 0,
-      "timestamp": 1793957639.0,
-      "size": 5430516,
+      "timestamp": 1794221347.0,
+      "size": 5427969,
       "permissions": [
         "kernelsu.permission.WEBUI",
         "kernelsu.permission.POST_MOUNT",
@@ -488,14 +488,6 @@
         "build_metadata": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/track.yaml"
       },
       "versions": [
-        {
-          "timestamp": 1790709260.0,
-          "version": "6.2.3-rc.1",
-          "versionCode": 602003301,
-          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.3-rc.1_602003301.zip",
-          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.3-rc.1_602003301.md",
-          "size": 6728704
-        },
         {
           "timestamp": 1790773921.0,
           "version": "6.2.3-rc.2",
@@ -535,6 +527,14 @@
           "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.6-rc.2_602006302.zip",
           "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.6-rc.2_602006302.md",
           "size": 5430516
+        },
+        {
+          "timestamp": 1794221347.0,
+          "version": "6.2.6-rc.4",
+          "versionCode": 602006304,
+          "zipUrl": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.6-rc.4_602006304.zip",
+          "changelog": "https://yukari0201.github.io/mmrl-repo/modules/meta-hybrid/6.2.6-rc.4_602006304.md",
+          "size": 5427969
         }
       ]
     },
